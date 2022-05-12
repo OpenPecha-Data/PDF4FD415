@@ -100,3 +100,8 @@ source_metadata:
       parent: Tsok
 created_at: '2022-02-28T22:46:47.948485'
 last_modified_at: '2022-02-28T22:46:47.948488'
+statistics:
+  total_words: 20437
+  total_non_words: 1794
+quality:
+  non_words_ratio: 0.09
